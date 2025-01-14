@@ -1,23 +1,20 @@
 <h1 align="center">Hi 🛸, I'm Maria Vitória de Souza da Silva・txt</h1>
 <h3 align="center">A ꒰ Computer Engineering ꒱ Student from Brazil ⋆·˚</h3>
 
-<p align="left"> <a href="https://twitter.com/mvitoriadesouza" target="blank"><img src="https://img.shields.io/twitter/follow/mvitoriadesouza?logo=twitter&style=for-the-badge" alt="mvitoriadesouza" /></a> </p>
-
-- 🧷 I’m currently learning **Java, Unity and Web Development**
+- 🧷 I’m currently learning **C#, Unity, Web Development and UX - UI Design**
 
 - 👯 I’m looking to collaborate on **Unity projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript and C**
+- 💬 Ask me about **HTML, CSS, JavaScript and C#**
 
 - 📫 How to reach me **mvitoriadesouza.dev@gmail.com**
 
-- ⚡ Fun fact **I love tarot and learning languages**
+- ⚡ Fun fact **I love music and learning languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mariavitoriasouzadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mariavitoriasouzadev" height="30" width="40" /></a>
 <a href="https://dev.to/mariavitoriasouzadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mariavitoriasouzadev" height="30" width="40" /></a>
-<a href="https://twitter.com/mvitoriadesouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mvitoriadesouza" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maria-vitória-de-souza-da-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria-vitória-de-souza-da-silva/" height="30" width="40" /></a>
 <a href="https://instagram.com/mvitoriasouzasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mvitoriasouzasilva" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mvitoriadesouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mvitoriadesouza" height="30" width="40" /></a>
