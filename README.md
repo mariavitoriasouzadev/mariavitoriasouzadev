@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript and C**
 
-- 📫 How to reach me **maria.vitoria.de.ss@gmail.com**
+- 📫 How to reach me **mvitoriadesouza.dev@gmail.com**
 
 - ⚡ Fun fact **I love tarot and learning languages**
 
