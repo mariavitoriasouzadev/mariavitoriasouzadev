@@ -16,7 +16,6 @@
 <a href="https://codepen.io/mariavitoriasouzadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mariavitoriasouzadev" height="30" width="40" /></a>
 <a href="https://dev.to/mariavitoriasouzadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mariavitoriasouzadev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maria-vitória-de-souza-da-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria-vitória-de-souza-da-silva/" height="30" width="40" /></a>
-<a href="https://instagram.com/mvitoriasouzasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mvitoriasouzasilva" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mvitoriadesouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mvitoriadesouza" height="30" width="40" /></a>
 </p>
 
